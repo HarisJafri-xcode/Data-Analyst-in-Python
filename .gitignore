@@ -220,3 +220,7 @@ merged_data.parquet
 *.pkl
 *.hdf5
 *.feather
+
+
+# VS Code workspace settings (keep if you want to share them)
+.vscode/
