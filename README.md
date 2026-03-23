@@ -8,12 +8,6 @@ Welcome to the **Data-Analyst-in-Python** course repository. This project covers
 * Learn to clean and transform messy data into actionable insights.
 * Communicate findings through professional visualizations.
 
-## 📂 Project Structure
-* `notebooks/`: Jupyter Notebooks containing step-by-step analysis.
-* `data/`: Raw and processed datasets (CSV, Excel).
-* `scripts/`: Python scripts for automated data processing.
-* `visualizations/`: Exported charts and dashboards.
-
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
