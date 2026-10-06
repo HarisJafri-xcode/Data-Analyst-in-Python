@@ -15,7 +15,7 @@ Welcome to the **Data-Analyst-in-Python** course repository. This project covers
 
 ## 👤 Author
 **Haris Jafri**
-* [YouTube Channel](https://www.youtube.com/@HarisJafri-xcode)
+* [YouTube Channel](https://www.youtube.com/@HarisJafri-Tech)
 * [LinkedIn Profile](https://www.linkedin.com/in/harisjafri/)
 
 ---
